@@ -19,7 +19,17 @@ A PHP web application with user authentication and contact functionality.
 │   ├── footer.php
 │   ├── header.php
 │   └── navbar.php
-└── vendor/
+├── vendor/
+├── .gitattributes
+├── .gitignore
+├── .htaccess
+├── composer.json
+├── composer.lock
+├── index.php
+├── login.php
+├── logout.php
+├── profile.php
+└── register.php
 ```
 
 ## Features
