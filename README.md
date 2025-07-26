@@ -41,7 +41,7 @@ A PHP web application with user authentication and contact functionality.
 1. Clone the repository to your XAMPP's htdocs directory:
 
 ```bash
-git clone [repository-url] sitc
+git clone [repository-url] sitc-assignment
 ```
 
 2. Install dependencies using Composer:
